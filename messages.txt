@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"sender": {
+			"username": "tonynamy"
+		},
+		"message": "안녕?",
+		"created_at": "2008-09-15T15:53:00+05:00",
+		"replies": []
+	},
+	{
+		"id": 2,
+		"sender": {
+			"username": "junwoo"
+		},
+		"message": "어 안녕!",
+		"created_at": "2009-09-15T15:53:00+05:00",
+		"replies": []
+	}
+]
